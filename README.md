@@ -1,7 +1,7 @@
 # TaskSync ToDo List
 
 <p align="center">
-  <img src="Screenshot(193).png" alt="Awesome ToDo List Demo" width="800">
+  <img src="Screenshot (193).png" alt="Awesome ToDo List Demo" width="800">
 </p>
 Welcome to TaskSync: ToDo List! 🚀 This simple web application helps you organize your tasks efficiently. Tasks are stored locally so you can pick up right where you left off.
 
