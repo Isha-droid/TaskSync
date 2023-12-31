@@ -1,7 +1,7 @@
 # Awesome ToDo List
 
 <p align="center">
-  <img src="path/to/your/project/screenshot.png" alt="Awesome ToDo List Demo" width="800">
+  <img src="TaskSync/Screenshot(193).png" alt="Awesome ToDo List Demo" width="800">
 </p>
 
 Welcome to Awesome ToDo List! 🚀 This simple web application helps you organize your tasks efficiently. Tasks are stored locally so you can pick up right where you left off.
@@ -14,7 +14,6 @@ Welcome to Awesome ToDo List! 🚀 This simple web application helps you organiz
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
