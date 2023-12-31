@@ -1,10 +1,9 @@
-# Awesome ToDo List
+# TaskSync ToDo List
 
 <p align="center">
   <img src="Screenshot(193).png" alt="Awesome ToDo List Demo" width="800">
 </p>
-
-Welcome to Awesome ToDo List! 🚀 This simple web application helps you organize your tasks efficiently. Tasks are stored locally so you can pick up right where you left off.
+Welcome to TaskSync: ToDo List! 🚀 This simple web application helps you organize your tasks efficiently. Tasks are stored locally so you can pick up right where you left off.
 
 ## Table of Contents
 
